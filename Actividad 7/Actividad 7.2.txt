@@ -1,0 +1,18 @@
+int contador =0;
+while(lee la pila){
+if(esta vacia){
+no hace nada
+}
+else{
+if(contador == 2 || 1){
+imprimir en pantalla el dato en esa posicion de la pila del numero ingresado 
+}
+else{
+no hace nada
+}
+}
+}
+
+void leerpila(pila){
+lee toda la pila 
+}
